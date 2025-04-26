@@ -1,10 +1,10 @@
 # Attribution-Noncommercial-ShareAlike 4.0 International
 
-Canonical URL:  https://creativecommons.org/licenses/by-nc-sa/4.0/
+Canonical URL:  <https://creativecommons.org/licenses/by-nc-sa/4.0/>
 
 ![CC BY-NC-SA 4.0](CCBYNCSA_half.png)
 
-## You are free to:
+## You are free to
 
 Share — copy and redistribute the material in any medium or format
 
@@ -12,7 +12,8 @@ Adapt — remix, transform, and build upon the material
 
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 
-## Under the following terms:
+## Under the following terms
+
 Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.You
 may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
@@ -24,7 +25,8 @@ license as the original.
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others
 from doing anything the license permits.
 
-## Notices:
+## Notices
+
 You do not have to comply with the license for elements of the material in the public domain or where your use is
 permitted by an applicable exception or limitation.
 
